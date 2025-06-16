@@ -10,7 +10,7 @@ This project presents an analysis of global and U.S. COVID-19 case and death dat
 
 ## Live Report
 
-[View the COVID-19 Report](https://raycirko.github.io/covid19_analysis/COVID-19-Report.html)
+[View the COVID-19 Report](https://raycirko.github.io/covid19_analysis/index.html)
 
 ## Data Source
 
